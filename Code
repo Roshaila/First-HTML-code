@@ -1,0 +1,45 @@
+<!doctype html>
+	<html>
+	<head>
+		<title>AutoGang Corner</title>
+	</head>
+	<style>
+		h1{
+			font-style: italic;
+			text-align: center;
+			border: 4px solid gray;
+			padding: 30px;
+			margin: 25px;
+		}
+		h3{
+			font-size: 200%;
+			border: 4px solid gray;
+			padding: 10px;
+		}
+		p1{
+			font-size: 25px;
+		}
+		a{
+			font-size: 25px;
+		}
+		body{
+			background-color: darkslategray;
+		}
+	</style>
+	<body>
+		<h1>Welcome To <hr><hr><hr> AutoCorner</h1>
+		<h2>The Heart of Automotive Enthusiasts</h2>
+		<h3 style="color:red; font-style:italic;">HONDA:</h3>
+		<br>
+		<p1>CIVIC<br>S2000<br>Accord<br>INTEGRA TYPE R<br>Spoon FD2<br>SPOON EP3</p1>
+		<br>
+		<a style = "color:red;" href="https://www.Honda.com">Honda's Central</a>
+		<br>
+		<h3 style="color:blue;">TOYOTA</h3>
+		<br>
+		<p>Supra<br>Celica<br>Century<br>GR YARIS</p>
+		<br>
+		<a href="https://www.Toyota.com">Toyota Motors</a>
+		
+	</body>
+	</html>
